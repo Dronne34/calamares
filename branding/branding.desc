@@ -1,14 +1,14 @@
 ---
-componentName:  arcolinux
+componentName:  archlinux
 
 strings:
-    productName:         ArcoLinuxB
-    shortProductName:    ArcoLinuxB
+    productName:         Archlinux
+    shortProductName:    Archlinux
     version:             1.0
     shortVersion:        1.0
-    versionedName:       ArcoLinuxB
-    shortVersionedName:  ArcoLinuxB
-    bootloaderEntryName: ArcoLinuxB
+    versionedName:       Archlinux
+    shortVersionedName:  Archlinux
+    bootloaderEntryName: Archlinux
 
 images:
     productLogo:         "squid.png"
